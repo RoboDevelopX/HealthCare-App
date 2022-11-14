@@ -38,7 +38,7 @@
 
 ## About The Project
 
-The project is a part of final year college project. Due to the current situation caused by Covid-19, Our team decided to contribute in the field of mobile health care system. The project uses 'symptom checker API' and simpler version of 'step detection algorithm' and also BMI calculation formula.The resources for the project are all open source and listed here (as much as I can remember).
+Due to the current situation caused by Covid-19, Our team decided to contribute in the field of mobile health care system. The project uses 'symptom checker API' and simpler version of 'step detection algorithm' and also BMI calculation formula.The resources for the project are all open source and listed here (as much as I can remember).
 
 ### Tools Used
 
